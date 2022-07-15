@@ -1,0 +1,15 @@
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\repositories\BookRepository.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\repositories\AuthorRepository.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\entities\Book.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\entities\Author.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\controllers\UserController.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\exceptions\UserServiceException.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\repositories\UserRepository.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\services\AuthorService.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\mapstruct\dtos\UserPostDto.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\BooksManagementApplication.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\services\BookService.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\mapstruct\mappers\MapStructMapper.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\services\UserService.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\entities\User.java
+C:\Users\Hamza\Desktop\Spring learning\booksManagement\src\main\java\com\hamza\booksManagement\mapstruct\dtos\UserGetDto.java
